@@ -1,5 +1,5 @@
 # Seven-Segment Display Driver using Verilog HDL
-## GANAPATHY SHRIRAM
+## GANAPATHY SHRIRAM V B
 ## 212223060064
 
 ## Aim  
